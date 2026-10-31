@@ -40,3 +40,7 @@
 
 ---
 *本仓库仅收录方法论与免费工具链接，由 956231studio 维护 · 联系：956231@qq.com*
+
+---
+
+Maintained by [956231 Studio](https://956231studio.com/) — practical packs for sellers and engineers, built and tested in production: [browse all packs](https://956231studio.com/packs/).
